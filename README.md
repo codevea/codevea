@@ -14,12 +14,12 @@ _En fin de compte, le domaine étant tellement vaste et enrichissant qu’il me 
 
 <br>
 
-##  _Quelques-unes de mes zones de divertissement et des moyens que j’emploie :_ 
+##  _Mes zones de divertissement et des moyens que j’emploie :_ 
 <br>
 
 <div>
 
-![HTML](pictures/html.png)    ![CSS](pictures/css.png)    ![JavaScript](pictures/javascript.png)    ![Sass](pictures/sass.png)    ![Visual Studio Code](pictures/vscode.png)    ![Symfony 7](pictures/symfony.png)    ![Tailwind CSS](pictures/tailwindcss.png)    ![FileZilla](pictures/filezilla.png)    ![Twig](pictures/twig.png)    ![Lysql](pictures/mysql.png)
+![HTML](pictures/html.png)  ![CSS](pictures/css.png)  ![JavaScript](pictures/javascript.png)  ![Sass](pictures/sass.png)  ![Visual Studio Code](pictures/vscode.png)  ![Symfony 7](pictures/symfony.png)  ![Tailwind CSS](pictures/tailwindcss.png)  ![FileZilla](pictures/filezilla.png)  ![Twig](pictures/twig.png)  ![Lysql](pictures/mysql.png)
 
 </div>
 
@@ -27,7 +27,7 @@ _En fin de compte, le domaine étant tellement vaste et enrichissant qu’il me 
 <br>
 
 <div>
-<a href="https://www.linkedin.com/in/nathalie-vrecq-codevea/"><img align="left" alt="Facebook" width="40px" src="pictures/linkedin.png" style="padding-right:10px;"></a>  <a href="https://www.facebook.com/codevea/"><img align="left" alt="Facebook" width="40px" src="pictures/facebook.png" style="padding-right:10px;"></a>
+<a href="https://www.linkedin.com/in/nathalie-vrecq-codevea/"><img align="left" alt="Facebook" src="pictures/linkedin.png" style="padding-right:10px;"></a>  <a href="https://www.facebook.com/codevea/"><img align="left" alt="Facebook" src="pictures/facebook.png" style="padding-right:10px;"></a>
 </div>
 
 <br>
