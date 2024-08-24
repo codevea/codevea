@@ -14,7 +14,7 @@ _En fin de compte, le domaine étant tellement vaste et enrichissant qu’il me 
 
 <br>
 
-##  _Mes zones de divertissement et des moyens que j’emploie :_ 
+##  _Mes zones de divertissement et les moyens que j’emploie :_ 
 <br>
 
 <div>
