@@ -1,7 +1,7 @@
 # ✨ _Hello world !_
 <br>
 
-_Autodidacte et depuis de nombreuses années (2000…) captivée par la création et le développement, parfois épatée par ma tolérance d’ingurgitation de lignes de code, j’ai décidé de passer du simple hobby au cap supérieur en me déclarant auto-entrepreneure en 2023._
+_Autodidacte et depuis de nombreuses années (2000…) captivée par la création et le développement, parfois épatée par ma tolérance à apprendre des lignes de code, j’ai décidé de passer du simple hobby au cap supérieur en me déclarant auto-entrepreneure en 2023._
 
 _Toutefois, j’ai toujours su mesurer mon potentiel personnel de départ vis-à-vis de certains, cependant cela ne m’a personnellement jamais posé de problème éthique. Si je rencontre une lacune, je suis prête à repartir et poser à la main le calcul comme une enfant qui redécouvre ses cours d’algèbre et de calcul… et je finis par une soirée pop-corn_ 🍿 _sur "l’histoire de la naissance des mathématiques". Eh oui, eh oui…_
 
