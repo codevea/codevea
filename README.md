@@ -5,7 +5,7 @@
 >  🌱  _Je suis aussi retournée sur les bancs de l’éducation nationale où je suis actuellement étudiante pour la préparation_ 
 > ✨  _BTS SIO option SLAM_
 > <br>
-> 📣 _Je recherche un stage de 4 semaines dans le domaine du développement (secteur Toulon et ses environs)._
+> 📣 _Je recherche un stage de 5 semaines dans le domaine du développement (secteur Toulon et ses environs)._
 > <a href="https://www.codevea.com/formulaire-de-contact-de-codevea/nous-contacter">Je suis joignable par mail ou par téléphone.</a>
 <br>
 
