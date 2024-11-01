@@ -24,11 +24,6 @@ _Le domaine étant tellement vaste et enrichissant qu’il me pousse toujours à
 
 </div>
 
-
-##  _Quelques zones en cours d'acquisitions. ↗️ (BTS SIO option SLAM 1re année):_
-<br>
-<div>Visual Studio 2019, Oracle VirtualBox, OCS Inventory, Ecxel, Anglais, Mathématique pour l'informatique, Cybersécurité des services informatiques, C# (liste non exhaustive).</div>
-
 ###  _Me retrouver :_ 
 <br>
 
