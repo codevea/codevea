@@ -9,14 +9,11 @@
 > <a href="https://www.codevea.com/formulaire-de-contact-de-codevea/nous-contacter">Je suis joignable par mail ou par téléphone.</a>
 <br>
 
-_Autodidacte et depuis de nombreuses années (2000…) captivée par la création et le développement, j’ai décidé de passer du simple hobby au cap supérieur en me déclarant auto-entrepreneure en 2023._
-
-_Le domaine étant tellement vaste et enrichissant qu’il me pousse toujours à creuser plus ! Si je résumais, je dirais que mon terrain de jeu est si vaste et illimité que j’avouerais n’y trouver aucune limite !_
+_Autodidacte et depuis de nombreuses années et captivée par la création et le développement, je me suis me déclarer auto-entrepreneure en 2023._
 
 <br>
 
 ##  _Mes zones de divertissement et les moyens que j’emploie :_ 
-<br>
 
 <div>
 
@@ -25,10 +22,20 @@ _Le domaine étant tellement vaste et enrichissant qu’il me pousse toujours à
 </div>
 
 ###  _Me retrouver :_ 
+
+<div>
+  
+<a href="https://www.linkedin.com/in/nathalie-vrecq-codevea/"><img align="left" alt="Facebook" src="pictures/linkedin.png" style="padding-right:10px;"></a>  <a href="https://www.facebook.com/codevea/"><img align="left" alt="Facebook" src="pictures/facebook.png" style="padding-right:10px;"></a>
+
+</div>
+
+<br>
 <br>
 
 <div>
-<a href="https://www.linkedin.com/in/nathalie-vrecq-codevea/"><img align="left" alt="Facebook" src="pictures/linkedin.png" style="padding-right:10px;"></a>  <a href="https://www.facebook.com/codevea/"><img align="left" alt="Facebook" src="pictures/facebook.png" style="padding-right:10px;"></a>
+  
+_Le domaine étant tellement vaste et enrichissant qu’il me pousse toujours à creuser plus ! Si je résumais, je dirais que mon terrain de jeu est si vaste et illimité que j’avouerais n’y trouver aucune limite !_
+
 </div>
 
 <br>
