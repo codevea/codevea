@@ -14,13 +14,25 @@ _Autodidacte et captivée depuis de nombreuses années par la création et le d�
 _Le domaine étant tellement vaste et enrichissant qu’il me pousse toujours à creuser plus ! Si je résumais, je dirais que mon terrain de jeu est si vaste et illimité que j’avouerais n’y trouver aucune limite !_
 
 <div>
-HTML, CSS, SASS, PHP, Javascript, TWIG, C#, Visual Studio Code, Visual Code, Figma, FileZilla, Gimp, Symfony 6 et 7, Vite, cPanel, PhpMyAdmin, Github.. 
+  
+_HTML, Css, Sass, PHP, JavaScript, TWIG, C#, Visual Studio Code, Visual Code, Figma, FileZilla, Gimp, Symfony 6 et 7, Vite, cPanel, PhpMyAdmin, Github ..._ 
+
 </div>
 
 ###  _Me retrouver :_ 
 
 <div>
   
-<a href="https://www.linkedin.com/in/nathalie-vrecq-codevea/"><img align="left" alt="Facebook" src="pictures/linkedin.png" style="padding-right:10px;"></a>  <a href="https://www.facebook.com/codevea/"><img align="left" alt="Facebook" src="pictures/facebook.png" style="padding-right:10px;"></a>
+<a href="https://www.linkedin.com/in/nathalie-vrecq-codevea/"><img align="left" alt="Facebook" src="pictures/linkedin.png" style="padding-right:10px;"></a>  <a href="https://www.facebook.com/codevea/"><img align="left" alt="Facebook" src="pictures/facebook.png" style="padding-right:10px;"></a> 
 
+</div>
+
+<div>
+
+[portfolio](https://www.portfolio-nathalie-vrecq.codevea.com/)  
+[codevea.com](https://www.codevea.com/)  
+[desjardinspersans.com](https://www.desjardinspersans.com/) 
+
+<div>
+  
 </div>
