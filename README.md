@@ -8,7 +8,14 @@ _Le domaine étant tellement vaste et enrichissant qu’il me pousse toujours à
 
 <div>
   
-_HTML/CSS, Sass, Tailwing, PHP, JavaScript, TWIG, Visual Studio Code, Visual Code, Figma, FileZilla, Symfony 6 et 7, PhpMyAdmin..._ 
+_HTML/CSS, Sass..._
+_Tailwing..._
+_PHP, JavaScript..._
+_Symfony, TWIG..._
+_WordPress..._
+_PhpMyAdmin, Figma, FileZilla..._  
+_Visual Studio Code, Visual Code, Apache NetBeans..._
+_Microsoft Project..._
 
 </div>
 
