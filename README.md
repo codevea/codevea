@@ -1,16 +1,17 @@
-## Hi there 👋
+# ✨ _Hello world !_
+_Autodidacte et captivée depuis de nombreuses années par la création et le développement d'applications ._
+<br>
+<br>
 
-<!--
-**codevea/codevea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  _Mes zones de divertissement et les moyens que j’emploie :_ 
+_Le domaine étant tellement vaste et enrichissant qu’il me pousse toujours à creuser plus ! Si je résumais, je dirais que mon terrain de jeu est si vaste et illimité que j’avouerais n’y trouver aucune limite !_
 
-Here are some ideas to get you started:
+> [!NOTE]
+> 📣 _Je recherche un stage dans le domaine du développement (secteur Toulon et ses environs)._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  _Me retrouver :_ 
+
+- [Linkedin](https://www.linkedin.com/in/nathalie-vrecq-codevea/) 
+- [Facebook](https://www.facebook.com/codevea/) 
+- [portfolio](https://www.portfolio-nathalie-vrecq.codevea.com/)  
+- [codevea.com](https://www.codevea.com/)  
