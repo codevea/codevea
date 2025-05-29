@@ -11,7 +11,6 @@ _Le domaine étant tellement vaste et enrichissant qu’il me pousse toujours à
 
 ###  _Me retrouver :_ 
 
-- [Linkedin](https://www.linkedin.com/in/nathalie-vrecq-codevea/) 
 - [Facebook](https://www.facebook.com/codevea/) 
 - [portfolio](https://www.portfolio-nathalie-vrecq.codevea.com/)  
 - [codevea.com](https://www.codevea.com/)  
