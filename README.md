@@ -9,8 +9,3 @@ _Le domaine étant tellement vaste et enrichissant qu’il me pousse toujours à
 > [!NOTE]
 > 📣 _Je recherche un stage dans le domaine du développement (secteur Toulon et ses environs)._
 
-###  _Me retrouver :_ 
-
-- [Facebook](https://www.facebook.com/codevea/) 
-- [portfolio](https://www.portfolio-nathalie-vrecq.codevea.com/)  
-- [codevea.com](https://www.codevea.com/)  
